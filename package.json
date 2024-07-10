@@ -1,0 +1,27 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "Vo Duy Bao Fullstack backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdbaozn/udemy-fullstack-backend-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Vo Duy Bao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdbaozn/udemy-fullstack-backend-zero/issues"
+  },
+  "homepage": "https://github.com/vdbaozn/udemy-fullstack-backend-zero#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
